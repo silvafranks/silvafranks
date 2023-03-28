@@ -1,5 +1,5 @@
 
-<h1 align="center">Ola 👋, Sou Franklin</h1>
+<h1 align="center">Olá 👋, Sou Franklin</h1>
 <h3 align="center">Desenvolvedor Backend!</h3>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
